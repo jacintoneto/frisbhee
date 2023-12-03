@@ -2,6 +2,12 @@
 
 ## Authors: Andrew Cheek, Lucien Heurtier, Yuber F. Perez-Gonzalez, Jessica Turner       
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I just did a copy and paste of the README file from the authors' repository: https://github.com/yfperezg/frisbhee
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This package provides the solution of the Friedmann - Boltzmann equations for Primordial Black Holes + SM radiation + BSM Models.
 We consider the collapse of density fluctuations as the PBH formation mechanism.
 We provide codes for monochromatic and extended mass and spin distributions.

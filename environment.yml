@@ -1,0 +1,9 @@
+name: example-environment
+dependencies:
+  - python
+  - numpy
+  - pip
+  - setuptools
+  - matplotlib
+  - scipy
+  - tqdm
